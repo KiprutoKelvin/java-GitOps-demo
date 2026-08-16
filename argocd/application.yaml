@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<YOUR_GITHUB_USERNAME>/java-gitops-demo.git
+    repoURL: https://github.com/KiprutoKelvin/java-GitOps-demo.git
     targetRevision: main
     path: k8s
 
